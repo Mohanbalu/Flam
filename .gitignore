@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.pid
+.DS_Storevenv/
+.queuectl_data/

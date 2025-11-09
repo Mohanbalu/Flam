@@ -1,0 +1,693 @@
+[
+    {
+        "label": "typer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typer",
+        "description": "typer",
+        "detail": "typer",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "config_set",
+        "kind": 2,
+        "importPath": "Backend.cli.config_cli",
+        "description": "Backend.cli.config_cli",
+        "peekOfCode": "def config_set(\n    key: str = typer.Argument(..., help=\"Config key to set (e.g., 'max_retries')\"),\n    value: str = typer.Argument(..., help=\"Value to set.\")\n):\n    \"\"\"Sets a configuration value.\"\"\"\n    if key not in DEFAULT_CONFIG:\n        typer.secho(f\"Error: Unknown config key '{key}'.\", fg=typer.colors.RED)\n        typer.echo(f\"Available keys: {list(DEFAULT_CONFIG.keys())}\")\n        raise typer.Exit(1)\n    # Try to cast value to correct type",
+        "detail": "Backend.cli.config_cli",
+        "documentation": {}
+    },
+    {
+        "label": "config_show",
+        "kind": 2,
+        "importPath": "Backend.cli.config_cli",
+        "description": "Backend.cli.config_cli",
+        "peekOfCode": "def config_show():\n    \"\"\"Shows the current configuration.\"\"\"\n    config = load_config()\n    typer.echo(json.dumps(config, indent=2))",
+        "detail": "Backend.cli.config_cli",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.config_cli",
+        "description": "Backend.cli.config_cli",
+        "peekOfCode": "app = typer.Typer(name=\"config\", help=\"Manage configuration.\")\n@app.command(\"set\")\ndef config_set(\n    key: str = typer.Argument(..., help=\"Config key to set (e.g., 'max_retries')\"),\n    value: str = typer.Argument(..., help=\"Value to set.\")\n):\n    \"\"\"Sets a configuration value.\"\"\"\n    if key not in DEFAULT_CONFIG:\n        typer.secho(f\"Error: Unknown config key '{key}'.\", fg=typer.colors.RED)\n        typer.echo(f\"Available keys: {list(DEFAULT_CONFIG.keys())}\")",
+        "detail": "Backend.cli.config_cli",
+        "documentation": {}
+    },
+    {
+        "label": "dlq_list",
+        "kind": 2,
+        "importPath": "Backend.cli.dlq",
+        "description": "Backend.cli.dlq",
+        "peekOfCode": "def dlq_list():\n    \"\"\"Lists all jobs in the Dead Letter Queue.\"\"\"\n    jobs = list_jobs_by_state(JobState.DEAD)\n    if not jobs:\n        typer.echo(\"Dead Letter Queue is empty.\")\n        return\n    typer.echo(\"--- Jobs in Dead Letter Queue ---\")\n    for job in jobs:\n        typer.echo(json.dumps(job.to_dict(), indent=2))\n@app.command(\"retry\")",
+        "detail": "Backend.cli.dlq",
+        "documentation": {}
+    },
+    {
+        "label": "dlq_retry",
+        "kind": 2,
+        "importPath": "Backend.cli.dlq",
+        "description": "Backend.cli.dlq",
+        "peekOfCode": "def dlq_retry(\n    job_id: str = typer.Argument(..., help=\"The ID of the DLQ job to retry.\")\n):\n    \"\"\"Moves a specific job from the DLQ back to the pending queue.\"\"\"\n    job = find_dlq_job(job_id)\n    if not job:\n        typer.secho(f\"Error: Job {job_id} not found in DLQ.\", fg=typer.colors.RED)\n        raise typer.Exit(1)\n    if retry_dlq_job(job):\n        typer.secho(f\"Job {job_id} has been re-queued as 'pending'.\", fg=typer.colors.GREEN)",
+        "detail": "Backend.cli.dlq",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.dlq",
+        "description": "Backend.cli.dlq",
+        "peekOfCode": "app = typer.Typer(name=\"dlq\", help=\"Manage the Dead Letter Queue (DLQ).\")\n@app.command(\"list\")\ndef dlq_list():\n    \"\"\"Lists all jobs in the Dead Letter Queue.\"\"\"\n    jobs = list_jobs_by_state(JobState.DEAD)\n    if not jobs:\n        typer.echo(\"Dead Letter Queue is empty.\")\n        return\n    typer.echo(\"--- Jobs in Dead Letter Queue ---\")\n    for job in jobs:",
+        "detail": "Backend.cli.dlq",
+        "documentation": {}
+    },
+    {
+        "label": "enqueue",
+        "kind": 2,
+        "importPath": "Backend.cli.enqueue",
+        "description": "Backend.cli.enqueue",
+        "peekOfCode": "def enqueue(\n    job_spec: str = typer.Argument(\n        ..., \n        help='The job specification as a JSON string. e.g. \\'{\"id\":\"job1\", \"command\":\"sleep 2\"}\\''\n    )\n):\n    \"\"\"\n    Enqueues a new job.\n    \"\"\"\n    try:",
+        "detail": "Backend.cli.enqueue",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.enqueue",
+        "description": "Backend.cli.enqueue",
+        "peekOfCode": "app = typer.Typer(name=\"enqueue\", help=\"Add a new job to the queue.\")\n@app.callback(invoke_without_command=True)\ndef enqueue(\n    job_spec: str = typer.Argument(\n        ..., \n        help='The job specification as a JSON string. e.g. \\'{\"id\":\"job1\", \"command\":\"sleep 2\"}\\''\n    )\n):\n    \"\"\"\n    Enqueues a new job.",
+        "detail": "Backend.cli.enqueue",
+        "documentation": {}
+    },
+    {
+        "label": "list_jobs",
+        "kind": 2,
+        "importPath": "Backend.cli.list_jobs",
+        "description": "Backend.cli.list_jobs",
+        "peekOfCode": "def list_jobs(\n    state: JobState = typer.Option(\n        JobState.PENDING, \n        \"--state\", \"-s\", \n        help=\"The job state to list.\",\n        case_sensitive=False\n    )\n):\n    \"\"\"\n    Lists jobs by their state.",
+        "detail": "Backend.cli.list_jobs",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.list_jobs",
+        "description": "Backend.cli.list_jobs",
+        "peekOfCode": "app = typer.Typer(name=\"list\", help=\"List jobs by state.\")\n@app.callback(invoke_without_command=True)\ndef list_jobs(\n    state: JobState = typer.Option(\n        JobState.PENDING, \n        \"--state\", \"-s\", \n        help=\"The job state to list.\",\n        case_sensitive=False\n    )\n):",
+        "detail": "Backend.cli.list_jobs",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "kind": 2,
+        "importPath": "Backend.cli.status",
+        "description": "Backend.cli.status",
+        "peekOfCode": "def status():\n    \"\"\"\n    Shows a summary of job states and active workers.\n    \"\"\"\n    typer.echo(\"--- Job Status Summary ---\")\n    stats = get_job_stats()\n    for state, count in stats.items():\n        typer.echo(f\"- {state.capitalize()}:\\t{count}\")\n    typer.echo(\"\\n--- Active Worker Status ---\")\n    workers = get_worker_status()",
+        "detail": "Backend.cli.status",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.status",
+        "description": "Backend.cli.status",
+        "peekOfCode": "app = typer.Typer(name=\"status\", help=\"Show summary of all job states & active workers.\")\n@app.callback(invoke_without_command=True)\ndef status():\n    \"\"\"\n    Shows a summary of job states and active workers.\n    \"\"\"\n    typer.echo(\"--- Job Status Summary ---\")\n    stats = get_job_stats()\n    for state, count in stats.items():\n        typer.echo(f\"- {state.capitalize()}:\\t{count}\")",
+        "detail": "Backend.cli.status",
+        "documentation": {}
+    },
+    {
+        "label": "worker_start",
+        "kind": 2,
+        "importPath": "Backend.cli.worker_cli",
+        "description": "Backend.cli.worker_cli",
+        "peekOfCode": "def worker_start(\n    count: int = typer.Option(1, \"--count\", \"-c\", help=\"Number of worker processes to start.\")\n):\n    \"\"\"Starts one or more worker processes in the background.\"\"\"\n    if count < 1:\n        typer.secho(\"Error: Count must be at least 1.\", fg=typer.colors.RED)\n        raise typer.Exit(1)\n    # --- THIS IS THE FIX ---\n    # Close the DB connection opened by the main_callback\n    # This ensures the child processes don't inherit a stale connection.",
+        "detail": "Backend.cli.worker_cli",
+        "documentation": {}
+    },
+    {
+        "label": "worker_stop",
+        "kind": 2,
+        "importPath": "Backend.cli.worker_cli",
+        "description": "Backend.cli.worker_cli",
+        "peekOfCode": "def worker_stop():\n    \"\"\"Stops all running worker processes gracefully.\"\"\"\n    stop_workers()",
+        "detail": "Backend.cli.worker_cli",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.cli.worker_cli",
+        "description": "Backend.cli.worker_cli",
+        "peekOfCode": "app = typer.Typer(name=\"worker\", help=\"Manage worker processes.\")\n@app.command(\"start\")\ndef worker_start(\n    count: int = typer.Option(1, \"--count\", \"-c\", help=\"Number of worker processes to start.\")\n):\n    \"\"\"Starts one or more worker processes in the background.\"\"\"\n    if count < 1:\n        typer.secho(\"Error: Count must be at least 1.\", fg=typer.colors.RED)\n        raise typer.Exit(1)\n    # --- THIS IS THE FIX ---",
+        "detail": "Backend.cli.worker_cli",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "def load_config() -> Dict[str, Any]:\n    \"\"\"Loads configuration from file, creating it if non-existent.\"\"\"\n    if not CONFIG_PATH.exists():\n        save_config(DEFAULT_CONFIG)\n        return DEFAULT_CONFIG\n    with open(CONFIG_PATH, 'r') as f:\n        try:\n            return json.load(f)\n        except json.JSONDecodeError:\n            # If config is corrupted, reset to default",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "kind": 2,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "def save_config(config: Dict[str, Any]):\n    \"\"\"Saves the configuration dictionary to the config file.\"\"\"\n    with open(CONFIG_PATH, 'w') as f:\n        json.dump(config, f, indent=2)\ndef get_config_value(key: str) -> Any:\n    \"\"\"Utility to get a single config value.\"\"\"\n    config = load_config()\n    return config.get(key, DEFAULT_CONFIG.get(key))",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_config_value",
+        "kind": 2,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "def get_config_value(key: str) -> Any:\n    \"\"\"Utility to get a single config value.\"\"\"\n    config = load_config()\n    return config.get(key, DEFAULT_CONFIG.get(key))",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nAPP_DIR = PROJECT_ROOT / \".queuectl_data\"\n# --- END OF CHANGE ---\nAPP_DIR.mkdir(exist_ok=True)\n# Define file paths\nDB_PATH = APP_DIR / \"queue.db\"\nCONFIG_PATH = APP_DIR / \"config.json\"\nPID_FILE = APP_DIR / \"workers.pid\"\n# Default configuration\nDEFAULT_CONFIG = {",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "APP_DIR",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "APP_DIR = PROJECT_ROOT / \".queuectl_data\"\n# --- END OF CHANGE ---\nAPP_DIR.mkdir(exist_ok=True)\n# Define file paths\nDB_PATH = APP_DIR / \"queue.db\"\nCONFIG_PATH = APP_DIR / \"config.json\"\nPID_FILE = APP_DIR / \"workers.pid\"\n# Default configuration\nDEFAULT_CONFIG = {\n    \"max_retries\": 3,",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "DB_PATH = APP_DIR / \"queue.db\"\nCONFIG_PATH = APP_DIR / \"config.json\"\nPID_FILE = APP_DIR / \"workers.pid\"\n# Default configuration\nDEFAULT_CONFIG = {\n    \"max_retries\": 3,\n    \"backoff_base\": 2,  # delay = base ^ attempts\n}\ndef load_config() -> Dict[str, Any]:\n    \"\"\"Loads configuration from file, creating it if non-existent.\"\"\"",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_PATH",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "CONFIG_PATH = APP_DIR / \"config.json\"\nPID_FILE = APP_DIR / \"workers.pid\"\n# Default configuration\nDEFAULT_CONFIG = {\n    \"max_retries\": 3,\n    \"backoff_base\": 2,  # delay = base ^ attempts\n}\ndef load_config() -> Dict[str, Any]:\n    \"\"\"Loads configuration from file, creating it if non-existent.\"\"\"\n    if not CONFIG_PATH.exists():",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "PID_FILE",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "PID_FILE = APP_DIR / \"workers.pid\"\n# Default configuration\nDEFAULT_CONFIG = {\n    \"max_retries\": 3,\n    \"backoff_base\": 2,  # delay = base ^ attempts\n}\ndef load_config() -> Dict[str, Any]:\n    \"\"\"Loads configuration from file, creating it if non-existent.\"\"\"\n    if not CONFIG_PATH.exists():\n        save_config(DEFAULT_CONFIG)",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CONFIG",
+        "kind": 5,
+        "importPath": "Backend.config",
+        "description": "Backend.config",
+        "peekOfCode": "DEFAULT_CONFIG = {\n    \"max_retries\": 3,\n    \"backoff_base\": 2,  # delay = base ^ attempts\n}\ndef load_config() -> Dict[str, Any]:\n    \"\"\"Loads configuration from file, creating it if non-existent.\"\"\"\n    if not CONFIG_PATH.exists():\n        save_config(DEFAULT_CONFIG)\n        return DEFAULT_CONFIG\n    with open(CONFIG_PATH, 'r') as f:",
+        "detail": "Backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_conn",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def get_db_conn():\n    \"\"\"\n    Provides a transactional database connection.\n    This context manager handles connection life-cycle and transactions.\n    \"\"\"\n    # Check if a connection already exists for this thread\n    if not hasattr(local_storage, \"connection\"):\n        # Set timeout to handle potential lock contention\n        local_storage.connection = sqlite3.connect(DB_PATH, timeout=10)\n        # This is key for getting dict-like rows",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def init_db():\n    \"\"\"Initializes the database schema.\"\"\"\n    with get_db_conn() as conn:\n        cursor = conn.cursor()\n        # Main job queue table\n        cursor.execute(\"\"\"\n        CREATE TABLE IF NOT EXISTS jobs (\n            id TEXT PRIMARY KEY,\n            command TEXT NOT NULL,\n            state TEXT NOT NULL,",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "add_job",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def add_job(job: Job) -> bool:\n    \"\"\"Adds a new job to the database.\"\"\"\n    job.max_retries = get_config_value(\"max_retries\")\n    try:\n        with get_db_conn() as conn:\n            conn.execute(\"\"\"\n            INSERT INTO jobs (id, command, state, attempts, max_retries, created_at, updated_at)\n            VALUES (?, ?, ?, ?, ?, ?, ?)\n            \"\"\", (job.id, job.command, job.state.value, job.attempts, job.max_retries, job.created_at, job.updated_at))\n        return True",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "update_job",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def update_job(job: Job):\n    \"\"\"Updates an existing job's state and metadata.\"\"\"\n    job.updated_at = datetime.utcnow().isoformat()\n    with get_db_conn() as conn:\n        conn.execute(\"\"\"\n        UPDATE jobs\n        SET state = ?, attempts = ?, updated_at = ?\n        WHERE id = ?\n        \"\"\", (job.state.value, job.attempts, job.updated_at, job.id))\ndef move_to_dlq(job: Job):",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "move_to_dlq",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def move_to_dlq(job: Job):\n    \"\"\"Atomically moves a job from the main queue to the DLQ.\"\"\"\n    job.state = JobState.DEAD\n    job.updated_at = datetime.utcnow().isoformat()\n    with get_db_conn() as conn:\n        # Insert into DLQ\n        conn.execute(\"\"\"\n        INSERT INTO dlq (id, command, state, attempts, max_retries, created_at, updated_at)\n        VALUES (?, ?, ?, ?, ?, ?, ?)\n        \"\"\", (job.id, job.command, job.state.value, job.attempts, job.max_retries, job.created_at, job.updated_at))",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_next_pending_job_atomic",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def get_next_pending_job_atomic() -> Optional[Job]:\n    \"\"\"\n    Atomically fetches and locks the next pending job.\n    This is the most critical part for concurrency.\n    \"\"\"\n    with get_db_conn() as conn:\n        cursor = conn.cursor()\n        # SQLite's BEGIN IMMEDIATE acquires a write lock, preventing other\n        # workers from picking up jobs until we're done.\n        # This is a simple and effective locking mechanism.",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_job_stats",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def get_job_stats() -> Dict[str, int]:\n    \"\"\"Returns a count of jobs by state.\"\"\"\n    stats = {state.value: 0 for state in JobState}\n    with get_db_conn() as conn:\n        cursor = conn.cursor()\n        cursor.execute(\"SELECT state, COUNT(*) as count FROM jobs GROUP BY state\")\n        for row in cursor.fetchall():\n            if row['state'] in stats:\n                stats[row['state']] = row['count']\n        # Get DLQ count",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "list_jobs_by_state",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def list_jobs_by_state(state: JobState) -> List[Job]:\n    \"\"\"Lists all jobs in a given state.\"\"\"\n    table = \"dlq\" if state == JobState.DEAD else \"jobs\"\n    with get_db_conn() as conn:\n        cursor = conn.cursor()\n        cursor.execute(f\"\"\"\n        SELECT id, command, state, attempts, max_retries, created_at, updated_at\n        FROM {table}\n        WHERE state = ?\n        ORDER BY created_at",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "find_dlq_job",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def find_dlq_job(job_id: str) -> Optional[Job]:\n    \"\"\"Finds a specific job in the DLQ.\"\"\"\n    with get_db_conn() as conn:\n        cursor = conn.cursor()\n        cursor.execute(\"\"\"\n        SELECT id, command, state, attempts, max_retries, created_at, updated_at\n        FROM dlq WHERE id = ?\n        \"\"\", (job_id,))\n        row = cursor.fetchone()\n        return Job.from_db_row(row) if row else None",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "retry_dlq_job",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def retry_dlq_job(job: Job) -> bool:\n    \"\"\"Moves a job from the DLQ back to the main queue as pending.\"\"\"\n    job.state = JobState.PENDING\n    job.attempts = 0 # Reset attempts\n    job.updated_at = datetime.utcnow().isoformat()\n    with get_db_conn() as conn:\n        try:\n            # Insert back into main jobs table\n            conn.execute(\"\"\"\n            INSERT INTO jobs (id, command, state, attempts, max_retries, created_at, updated_at)",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "close_db_conn",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def close_db_conn():\n    \"\"\"Closes the connection for the current thread.\"\"\"\n    if hasattr(local_storage, \"connection\"):\n        local_storage.connection.close()\n        del local_storage.connection",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "local_storage",
+        "kind": 5,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "local_storage = threading.local()\n@contextmanager\ndef get_db_conn():\n    \"\"\"\n    Provides a transactional database connection.\n    This context manager handles connection life-cycle and transactions.\n    \"\"\"\n    # Check if a connection already exists for this thread\n    if not hasattr(local_storage, \"connection\"):\n        # Set timeout to handle potential lock contention",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "main_callback",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def main_callback():\n    \"\"\"\n    Main callback, runs before any command.\n    Ensures the database is initialized.\n    \"\"\"\n    init_db()\nif __name__ == \"__main__\":\n    app()",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "app = typer.Typer(\n    name=\"queuectl\",\n    help=\"A CLI-based background job queue system.\",\n    no_args_is_help=True\n)\n# Import and add sub-commands\nfrom .cli import enqueue, worker_cli, status, list_jobs, dlq, config_cli\napp.add_typer(enqueue.app, name=\"enqueue\")\napp.add_typer(worker_cli.app, name=\"worker\")\napp.add_typer(status.app, name=\"status\")",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "JobState",
+        "kind": 6,
+        "importPath": "Backend.models",
+        "description": "Backend.models",
+        "peekOfCode": "class JobState(str, Enum):\n    \"\"\"Enumeration of possible job states.\"\"\"\n    PENDING = \"pending\"\n    PROCESSING = \"processing\"\n    COMPLETED = \"completed\"\n    FAILED = \"failed\"\n    DEAD = \"dead\"\n@dataclass\nclass Job:\n    \"\"\"",
+        "detail": "Backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Job",
+        "kind": 6,
+        "importPath": "Backend.models",
+        "description": "Backend.models",
+        "peekOfCode": "class Job:\n    \"\"\"\n    Represents a single job in the queue.\n    We use dataclasses for clear, typed definitions.\n    \"\"\"\n    command: str\n    id: str = field(default_factory=lambda: str(uuid.uuid4()))\n    state: JobState = JobState.PENDING\n    attempts: int = 0\n    max_retries: int = field(default_factory=lambda: 3) # Can be overridden by config",
+        "detail": "Backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "signal_handler",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def signal_handler(signum, frame):\n    \"\"\"Handles termination signals for graceful shutdown.\"\"\"\n    global shutdown_flag\n    print(f\"Signal {signum} received, shutting down gracefully...\")\n    shutdown_flag = True\ndef execute_job(job: Job) -> bool:\n    \"\"\"\n    Executes a job's command using subprocess.\n    Returns True on success (exit code 0), False otherwise.\n    \"\"\"",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "execute_job",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def execute_job(job: Job) -> bool:\n    \"\"\"\n    Executes a job's command using subprocess.\n    Returns True on success (exit code 0), False otherwise.\n    \"\"\"\n    print(f\"[Worker {os.getpid()}] Processing job {job.id}: {job.command}\")\n    try:\n        # Using shlex.split might be safer, but for this spec,\n        # shell=True executes the raw command string.\n        # This is a security risk if commands are from untrusted users,",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "run_worker",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def run_worker():\n    \"\"\"The main loop for a single worker process.\"\"\"\n    # --- THIS IS THE FIX ---\n    # Initialize the DB *within* the new child process.\n    # This creates a fresh, safe connection.\n    init_db()\n    # --- END OF FIX ---\n    # Register signal handlers for graceful shutdown\n    signal.signal(signal.SIGINT, signal_handler)\n    signal.signal(signal.SIGTERM, signal_handler)",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "handle_failed_job",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def handle_failed_job(job: Job):\n    \"\"\"Handles retry logic and DLQ promotion for a failed job.\"\"\"\n    config_max_retries = get_config_value(\"max_retries\")\n    backoff_base = get_config_value(\"backoff_base\")\n    # Ensure job's max_retries is in sync with config, or use its own\n    max_retries = job.max_retries if job.max_retries > 0 else config_max_retries\n    if job.attempts >= max_retries:\n        print(f\"[Worker {os.getpid()}] Job {job.id} failed. Max retries ({max_retries}) reached. Moving to DLQ.\")\n        move_to_dlq(job)\n    else:",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "start_workers",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def start_workers(count: int):\n    \"\"\"Starts a specified number of worker processes.\"\"\"\n    pids = []\n    print(f\"Starting {count} worker(s)...\")\n    for _ in range(count):\n        pid = os.fork()\n        if pid == 0:\n            # This is the child process\n            try:\n                run_worker()",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "stop_workers",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def stop_workers():\n    \"\"\"Stops all running worker processes gracefully.\"\"\"\n    if not PID_FILE.exists():\n        print(\"No workers seem to be running (PID file not found).\")\n        return\n    pids_to_remove = []\n    if os.path.getsize(PID_FILE) > 0:\n        with open(PID_FILE, 'r') as f:\n            pids = [int(line.strip()) for line in f if line.strip()]\n        if not pids:",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "get_worker_status",
+        "kind": 2,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "def get_worker_status() -> List[Dict]:\n    \"\"\"Checks the status of running workers.\"\"\"\n    status = []\n    if not PID_FILE.exists():\n        return status\n    if os.path.getsize(PID_FILE) == 0:\n        return status\n    with open(PID_FILE, 'r') as f:\n        pids = [int(line.strip()) for line in f if line.strip()]\n    active_pids = []",
+        "detail": "Backend.worker",
+        "documentation": {}
+    },
+    {
+        "label": "shutdown_flag",
+        "kind": 5,
+        "importPath": "Backend.worker",
+        "description": "Backend.worker",
+        "peekOfCode": "shutdown_flag = False\ndef signal_handler(signum, frame):\n    \"\"\"Handles termination signals for graceful shutdown.\"\"\"\n    global shutdown_flag\n    print(f\"Signal {signum} received, shutting down gracefully...\")\n    shutdown_flag = True\ndef execute_job(job: Job) -> bool:\n    \"\"\"\n    Executes a job's command using subprocess.\n    Returns True on success (exit code 0), False otherwise.",
+        "detail": "Backend.worker",
+        "documentation": {}
+    }
+]
